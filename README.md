@@ -124,10 +124,6 @@ config interface 'docker'
 config device
         option type 'bridge'
         option name 'docker0'
-
-config interface 'tailscale'
-        option ifname 'tailscale0'
-        option proto 'none'
 ```
 
 ## firewall file here:
