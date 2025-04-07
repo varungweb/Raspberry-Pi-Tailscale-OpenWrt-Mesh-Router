@@ -1,5 +1,5 @@
 # Raspberry Pi2 / Pi3 OpenWrt Configuration Guide
-A setup guide to transform a Raspberry Pi 2/3 into a Tailscale-connected OpenWrt router using Docker. This solution enables other devices to join the Tailscale mesh network without manually installing or configuring Tailscale, offering an easy way to extend secure, seamless connectivity across devices.<br>
+A setup guide to transform a Raspberry Pi 2/3 into a Tailscale-connected OpenWrt router using Docker. This solution enables other devices to join the Tailscale mesh network without manually installing or configuring Tailscale, offering an easy way to extend secure, seamless connectivity across devices. Version for Openwrt is <a href="https://downloads.openwrt.org/releases/24.10.0/targets/bcm27xx/bcm2710/openwrt-24.10.0-bcm27xx-bcm2710-rpi-3-ext4-factory.img.gz">`openwrt-24.10.0-bcm27xx-bcm2710-rpi-3-ext4-factory`<a><br>
 
 Note: Port can be change at `/etc/config/uhttpd`
 
