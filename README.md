@@ -312,7 +312,7 @@ services:
 
 
 
-# Allow All LAN Clients to Access Tailscale Network on OpenWrt (optional / Already Done Above) 
+# Allow All LAN Clients to Access Tailscale Network on OpenWrt
 
 This guide explains how to allow all LAN devices on OpenWrt to access the Tailscale network.
 
