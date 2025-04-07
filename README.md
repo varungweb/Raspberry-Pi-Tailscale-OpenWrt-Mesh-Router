@@ -272,7 +272,7 @@ services:
     ports:
       - 8080:8080
     volumes:
-      - ./root/docker:/data
+      - /:/data
       - ./config:/config
     environment:
       - FB_BASEURL=/filebrowser
