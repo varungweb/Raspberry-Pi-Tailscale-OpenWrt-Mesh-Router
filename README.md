@@ -50,7 +50,7 @@ df -h
 ## Install Additional Packages
 ```sh
 opkg update && opkg install kmod-rt2800-lib kmod-rt2800-usb kmod-rt2x00-lib kmod-rt2x00-usb kmod-usb-core \
-kmod-usb-uhci kmod-usb-ohci kmod-usb2 usbutils openvpn-openssl luci-app-openvpn nano kmod-usb-net-rtl8152
+kmod-usb-uhci kmod-usb-ohci kmod-usb2 usbutils openvpn-openssl luci-app-openvpn nano kmod-usb-net-rtl8152 kmod-mt7601u
 ```
 
 ## Install Docker and its dependecies
